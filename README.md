@@ -18,7 +18,7 @@ Vencord allows you to load in Online Themes, follow the steps below:
 4. copy paste the link below and the theme should load
 
 ```
-https://raw.githubusercontent.com/aydenjahola/DiscordDarkPink/master/DarkNeon.theme.css
+https://raw.githubusercontent.com/aydenjahola/DiscordDarkPink/master/DarkPink.theme.css
 ```
 
 #### Manual Installation
