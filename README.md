@@ -23,10 +23,10 @@ https://raw.githubusercontent.com/aydenjahola/DiscordDarkPink/master/DarkPink.th
 
 #### Manual Installation
 
-to intall this theme the manual way, follow the steps below:
+to install this theme the manual way, follow the steps below:
 
 1. Download `DarkPink.theme.css`
-2. Naviagte to Discord Settings
+2. Naviagte to Discord settings
 3. Choose `Themes` under Vencord settings
 4. Under `Local Themes` click `Open Themes Folder`
 5. Move the `DarkPink.theme.css` file you downloaded into that folder
